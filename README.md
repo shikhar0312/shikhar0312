@@ -1,5 +1,6 @@
 # 💫 About Me:
 
+AI Engineer building practical AI applications with LLMs, RAG, and modern backend technologies.
 
 
 ## 🌐 Socials:
