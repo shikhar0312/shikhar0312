@@ -15,15 +15,15 @@ I build practical AI applications using large language models, retrieval-augment
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🤖 Focused on building useful applications powered by LLMs, RAG, and AI agents.
-- 🧠 Exploring agentic workflows, retrieval systems, and LLM application design.
-- ⚙️ Working with Python, FastAPI, LangChain, and backend technologies.
-- 🚀 Interested in building reliable, maintainable, and production-minded AI systems.
-- 📚 Continuously learning through hands-on projects and experimentation.
+- Focused on building useful applications powered by LLMs, RAG, and AI agents.
+- Exploring agentic workflows, retrieval systems, and LLM application design.
+- Working with Python, FastAPI, LangChain, and backend technologies.
+- Interested in building reliable, maintainable, and production-minded AI systems.
+- Continuously learning through hands-on projects and experimentation.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### AI & LLM Engineering
 
@@ -57,21 +57,21 @@ I build practical AI applications using large language models, retrieval-augment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 Projects
+## Projects
 
-### 📄 DocuMind — RAG PDF Reader
+### DocuMind — RAG PDF Reader
 
 A document question-answering project exploring PDF ingestion, text chunking, embeddings, vector storage, and LLM-powered responses.
 
 **Tech:** Python · LangChain · ChromaDB · FastAPI · Gemini
 
-### 🔎 TheResearcher — AI Research Assistant
+### TheResearcher — AI Research Assistant
 
 An AI research assistant concept focused on helping users explore questions and organize useful information.
 
 **Tech:** Next.js · React · AI APIs
 
-### ⚖️ The Juristus
+### The Juristus
 
 A law-firm website with practice-area content and a subscription-oriented section.
 
@@ -79,27 +79,29 @@ A law-firm website with practice-area content and a subscription-oriented sectio
 
 > Add links to each repository or live demo once they're public and ready to share.
 
-## 📌 What I'm Learning
+## What I'm Learning
 
 - Advanced RAG design and evaluation
 - AI agents and graph-based workflows with LangGraph
 - LLM application deployment and observability
 - Building reliable APIs and production-ready AI systems
 
+---
 
+# GitHub Stats
 
+![](https://github-readme-stats.shion.dev/api?username=shikhar0312&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
+![](https://streak-stats.demolab.com/?user=shikhar0312&theme=dark&hide_border=false)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shikhar0312&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shikhar0312&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shikhar0312&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://komarev.com/ghpvc/?username=shikhar0312&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
